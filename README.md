@@ -56,6 +56,6 @@ This project is for educational purposes and is provided as-is. Feel free to mod
 
 For questions or feedback, you can reach out to:
 
-- **Your Name**: [your.email@example.com]
+- **Your Name**: nithyananthannagarajan092@gmail.com
 
 ---
